@@ -1,10 +1,3 @@
-# Ultimate-Music-Player [![Share on Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Turn%20Sublime%20Text%203%20into%20a%20JavaScript%20IDE%20&url=https://github.com/yashk9293/Music-Player&hashtags=javascript,ide,plugin,sublimetext3,editor) [![Share on Facebook](https://img.shields.io/badge/share-facebook-blue.svg?longCache=true&style=flat&colorB=%234267b2)](hhttp://www.facebook.com/sharer.php?u=https://github.com/yashk9293/Music-Player)
-
-## Screenshot
-<p>
-    <a href="https://youtu.be/lcMNFBXV2d4" target="_blank"><img src="./readme_img/preview.png" alt="music-list"></a>
-</p>
-
 ## Functions :
 #### Modes :
 - repeat mode -> playlist looped
@@ -56,22 +49,6 @@
 </div>
 <br>
 
-**Live Demo** : https://yashk9293.github.io/Music-Player/
-
-## Author
-
-👤 **Yash Kumar**
-
-- Github: [@githubhandle](https://github.com/yashk9293)
-- Twitter: [@twitterhandle](https://twitter.com/Yashk_9293)
-- Linkedin: [linkedin](https://www.linkedin.com/in/yashk9293/)
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
 ### Run Locally
 
 To run **weather application** locally, run this command on your git bash:
@@ -89,8 +66,4 @@ git clone https://github.com/yashk9293/Music-Player.git
 ```
 <br>
 
-**📌NOTE** : If you want to add more songs, then you just need to add songs in the **songs folder** and add images of the musics in **images folder**, then add list item in the list of **music-list.js** file. That's all, nothing to do more.
 
-## LICENSE
-
-[MIT License](LICENSE)
